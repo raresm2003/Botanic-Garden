@@ -1,0 +1,32 @@
+ID,Name,Species,Carnivore,Zone
+1,Rose,Rosa spp.,false,FLOWER_GARDEN
+2,Tulip,Tulipa spp.,false,FLOWER_GARDEN
+3,Orchid,Orchidaceae,false,FLOWER_GARDEN
+4,Lily,Lilium spp.,false,FLOWER_GARDEN
+5,Dahlia,Dahlia spp.,false,FLOWER_GARDEN
+7,Echinacea,Echinacea purpurea,false,HERBARIUM
+8,Sage,Salvia spp.,false,HERBARIUM
+9,Chamomile,Matricaria chamomilla,false,HERBARIUM
+10,Peppermint,Mentha × piperita,false,HERBARIUM
+11,Oak,Quercus spp.,false,ARBORETUM
+12,Maple,Acer spp.,false,ARBORETUM
+13,Pine,Pinus spp.,false,ARBORETUM
+14,Redwood,Sequoia sempervirens,false,ARBORETUM
+15,Ginkgo,Ginkgo biloba,false,ARBORETUM
+16,Water Lily,Nymphaea spp.,false,WATER_FEATURES
+17,Lotus,Nelumbo spp.,false,WATER_FEATURES
+18,Cattail,Typha spp.,false,WATER_FEATURES
+19,Water Hyacinth,Eichhornia crassipes,false,WATER_FEATURES
+20,Pitcher Plant,Sarracenia spp.,true,WATER_FEATURES
+21,Venus Flytrap,Dionaea muscipula,true,WATER_FEATURES
+22,Sundew,Drosera spp.,true,WATER_FEATURES
+23,Bladderwort,Utricularia spp.,true,WATER_FEATURES
+24,Cobra Lily,Darlingtonia californica,true,WATER_FEATURES
+25,California Poppy,Eschscholzia californica,false,NATIVE_PLANTS
+26,Bluebonnet,Lupinus texensis,false,NATIVE_PLANTS
+27,Sagebrush,Artemisia spp.,false,NATIVE_PLANTS
+28,arar,aff,false,HERBARIUM
+29,Milkweed,Asclepias spp.,false,NATIVE_PLANTS
+43,abcr,abce,false,ARBORETUM
+45,abcde,def,false,FLOWER_GARDEN
+47,plantaX,specieXY,true,HERBARIUM
