@@ -84,7 +84,7 @@ The system allows different types of users to interact with the botanic garden d
 
 ## 👨‍💻 Contributors
 
-**[Miclea Rareș](https://github.com/your-username)**   
+**[Miclea Rareș](https://github.com/raresm2003)**   
 
 ---
 
